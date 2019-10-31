@@ -9,7 +9,8 @@
 
 ## A Pod Project, featuring:
 
-**Sam:** 
+**Sam:**
+![Sam](https://ll-show.s3.amazonaws.com/public/pods/alphatesters/sam-portrait/AlphaTesters_Sam.jpg)
 
 **Emmy:**
 ![](https://lh3.googleusercontent.com/VzIC_i-H4mlCT4YSS7fOmnWm7uoZat4ZCouEt73A1zvmjb_OogtD0wEDor7j-zpMRARvruAc96R9_fPCLd22_aLaoDf0sqqT3DmmxfrukFOOtenoBfrFOL1jWDG62UKWGSIm5aH9)
